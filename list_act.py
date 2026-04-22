@@ -5,6 +5,7 @@ fruits = ["apple", "banana", "cherry"]
 print("Activity 1:", fruits)
 
 # Activity 2: Access Items
+fruits = ["apple", "banana", "cherry"]
 print("Activity 2 - First item:", fruits[0])
 print("Activity 2 - Last item:", fruits[-1])
 
